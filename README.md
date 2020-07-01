@@ -1,0 +1,1 @@
+# vscode-ws-no-folder
