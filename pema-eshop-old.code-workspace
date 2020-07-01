@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "velkoobchodpapirem.cz — (Remote)",
+			"uri": "sftp://savana-lipa/"
+		},
+		{
+			"name": "velkoobchoddrogerie.cz — (Remote)",
+			"uri": "sftp://savana-pema/"
+		}
+	],
+	"settings": {
+		"files.encoding": "windows1250"
+	}
+}

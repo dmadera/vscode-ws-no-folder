@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "libereckabouda.cz — (Remote)",
+			"uri": "sftp://savana-lb/"
+		}
+	],
+	"settings": {
+		"files.encoding": "utf8",
+		"git.ignoreLimitWarning": true
+	}
+}
